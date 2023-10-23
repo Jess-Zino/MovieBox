@@ -25,7 +25,7 @@ Follow these steps to get the application up and running on your local machine:
 1. Clone the Repository (or Download ZIP):
 
    ```bash
-   git clone https://github.com/yourusername/react-web-discovery-app.git
+   git clone https://github.com/Jess-ZIno/react-web-discovery-app.git
    ```
 
    If you prefer not to use Git, you can download the repository as a ZIP archive and extract it to your local machine.
@@ -52,7 +52,7 @@ Follow these steps to get the application up and running on your local machine:
 
 5. Access the Application:
 
-   Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the React Web Discovery Application.
+   Open your web browser and navigate to [http://localhost:5173](http://localhost:5173) to access the React Web Discovery Application.
 
 ## Usage
 
